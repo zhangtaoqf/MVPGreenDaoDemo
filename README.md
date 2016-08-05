@@ -1,0 +1,4 @@
+# MVPGreenDaoDemo
+这是一个用mvp架构写的greendao的案例
+1.项目的基本框架是用mvp来搭建的
+2.项目中演示的是greendao的使用
